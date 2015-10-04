@@ -1,4 +1,4 @@
-Agar Mod Read at me:
+# Agar Mod Read at me:
 
 Welcome to ReadMe YOU NEED READ ME
 
@@ -7,3 +7,8 @@ You Need Update? Talk me Want It
 
 Next Year May Update  8.1.1
 but you need gitKits Website : github.com/timothyfrancis/GitKit
+
+# Lets Gets Started!
+More Play App Android agario.mobi
+# Owner's YouTube
+www.youtube.com/timothyfrancismarano
