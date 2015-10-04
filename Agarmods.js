@@ -3,7 +3,7 @@
 // @namespace	 AgarMods
 // @version      1.9.9
 // @description  community run mod feature set for agar.io
-// @author       electronoob
+// @author       Tinoy Gaming
 // @updateURL    http://agariomods.com/mods.user.js
 // @match        http://agar.io/
 // @match        http://agar.io/#*
