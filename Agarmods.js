@@ -17,7 +17,7 @@ script.src = document.location.protocol+"http://www.agarmods.sitew.org/#Page_1.A
 
 /*
 repo:
-https://github.com//agarmods
+https://github.com/timothyfrancis/agarmods
 
 http://www.agarmods.sitew.org/#Page_1.A
 
