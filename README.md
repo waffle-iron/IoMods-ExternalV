@@ -12,5 +12,5 @@ but you need gitKits Website : github.com/timothyfrancis/GitKit
 More Play App Android agario.mobi
 # Owner's YouTube And twitch.tv And website
 http://www.youtube.com/timothy%20francis%20marano
-http://www.twitch.tv/timothyfrancisplays
-tinoyplays.weebly.com
+[TWITCH.TV](http://www.twitch.tv/timothyfrancisplays)
+[WEBSITE](tinoyplays.weebly.com)
