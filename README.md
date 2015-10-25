@@ -13,4 +13,4 @@ More Play App Android agario.mobi
 # Owner's twitch.tv And website
 [TWITCH.TV](http://www.twitch.tv/timothyfrancisplays)
 
-[WEBSITE](tinoyplays.weebly.com)
+[WEBSITE](http://tinoyplays.weebly.com)
