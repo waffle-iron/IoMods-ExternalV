@@ -10,6 +10,9 @@ but you need gitKits Website : github.com/timothyfrancis/GitKit
 
 # Lets Gets Started!
 More Play App Android agario.mobi
+*requierments to windows,ubuntu,linux and other PC.*
+plz download at zip or github destop
+
 # What's New!
 
 6ur2etk45g75g09 it means a code you update a repo . Bug fixing, reload bug, fb relogin, fix agario
