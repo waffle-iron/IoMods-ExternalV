@@ -10,6 +10,10 @@ but you need gitKits Website : github.com/timothyfrancis/GitKit
 
 # Lets Gets Started!
 More Play App Android agario.mobi
+[WHAT'S NEW!](6ur2etk45g75g09 it means a code you update a repo . Bug fixing, reload bug, fb relogin, fix agario)
+
+
+
 # Owner's twitch.tv And website
 [TWITCH.TV](http://www.twitch.tv/timothyfrancisplays)
 
