@@ -27,8 +27,14 @@ Bugfix(document.createElement || if do [in]'55in' || .appenchild || find if [do]
 [/target BugFix]
 /*
 // ==Userscript==
-targetrepo[Bugfix]:
+repo:
+
 http://github.com/timothyfrancis/AgarMods/Bugfixer/
+
+
+http://github.com/timothyfrancis/AgarMods/
 *\
+
+facebookrelogin
 
 
