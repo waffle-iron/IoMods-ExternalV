@@ -1,0 +1,19 @@
+a ;ablemod [mod]
+/modfix @a [Bug]
+/modfix @p %
+{
+"array":[
+modfix= MODEL-982414084642
+@ES FIX
+,
+],
+______§§§§§§_________
+//Bugrequire %
+
+
+"requirement" :[
+bugfix
+database/data/cache
+],
+/fix database/data/cache clean [1333333333339999999999000099999999999999999999999999999999999999999998888] 'All'
+/fix 'All' %
