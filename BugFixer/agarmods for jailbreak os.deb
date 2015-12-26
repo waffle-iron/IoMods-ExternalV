@@ -1,0 +1,9 @@
+{PK}
+if NOT [ios/os] CLOSE A MOD
+if [jailbreaked] open a mod
+
+debian = den
+if NOT [jailbreaked] CLOSE A MOD
+dev = mod installation
+Floating window = on
+floating window target = http://github.com/timothyfrancis/AgarMods/BugFixer
