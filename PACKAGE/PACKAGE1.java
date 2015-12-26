@@ -7,3 +7,9 @@ import io.agar.Chrome
 //Renew
 
 @package
+/*
+important
+package
+*/ 
+$ =class do true= var
+arguments[class = do true + - false]
