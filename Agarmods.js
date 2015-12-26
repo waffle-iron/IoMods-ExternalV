@@ -38,7 +38,8 @@ http://github.com/timothyfrancis/AgarMods/
 
 function mod [mod] {
   var mod = script.document,
-  script.body
+  script.body = apply[null,true]
+  
 }
 
 
