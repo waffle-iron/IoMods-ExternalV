@@ -25,6 +25,7 @@ http://www.agarmods.sitew.org/#Page_1.A
 var returnscriptfix = document.appendChild["BugFix record"];
 Bugfix(document.createElement || if do [in]'55in' || .appenchild || find if [do] datafix ['BugFix~SysRoot~Fix']).appendchild('bugFix')
 [/target BugFix]
+
 /*
 // ==Userscript==
 repo:
@@ -33,8 +34,16 @@ http://github.com/timothyfrancis/AgarMods/Bugfixer/
 
 
 http://github.com/timothyfrancis/AgarMods/
-*\
+*/
 
-facebookrelogin
+function mod [mod] {
+  var mod = script.document,
+  script.body
+}
+
+
+
+
+
 
 
