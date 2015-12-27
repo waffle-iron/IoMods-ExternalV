@@ -1,5 +1,7 @@
 # Agar Mod Read at me:
 
+[![Join the chat at https://gitter.im/timothyfrancis/AgarMods](https://badges.gitter.im/timothyfrancis/AgarMods.svg)](https://gitter.im/timothyfrancis/AgarMods?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to ReadMe YOU NEED READ ME
 
 Tinoy Here But You Not Have Mods You May You have Repo At Tampermonkey But You May Have MonkeyScripts But
