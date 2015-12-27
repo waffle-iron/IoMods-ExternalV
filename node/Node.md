@@ -1,5 +1,6 @@
 ![Node.js](http://nodejs.org/images/logos/nodejs.png)
 
+[![Gitter](http://badges.gitter.im/Join
 Chat.svg)](https://gitter.im/AgarMods/Agar?utm_source=badge&utm_medium=badge&utm_campaigan=pr-badge&utm_content=badge)
 
 THANKS! For Support Agarmods!
