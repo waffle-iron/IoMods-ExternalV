@@ -1,5 +1,5 @@
 # Welcome TO 
-![node-js](https://raw.githubusercontent.com/nodejs/help/assets/nodejs-black.png)
+![nodejs](https://raw.githubusercontent.com/nodejs/help/assets/nodejs-black.png)
 
 
 
