@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        AgarMods
 // @namespace	 AgarMods
-// @version      1.9.9
+// @version      8.02
 // @description  community run mod feature set for agar.io
 // @author       Tinoy Gaming
 // @updateURL    http://agariomods.com/mods.user.js
