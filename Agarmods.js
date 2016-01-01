@@ -25,6 +25,7 @@ http://www.agariomods.com/mods.user.js
 var returnscriptfix = document.appendChild["BugFix record"];
 Bugfix(document.createElement || if do [in]'55in' || .appenchild || find if [do] datafix ['BugFix~SysRoot~Fix']).appendchild('bugFix')
 [/target BugFix]
+// ==/UserScript==
 
 /*
 
