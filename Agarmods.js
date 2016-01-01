@@ -12,12 +12,12 @@
 // ==/UserScript==
 
 var script = document.createElement('script');
-script.src = document.location.protocol+"http://www.agarmods.sitew.org/#Page_1.A";
+script.src = document.location.protocol+"http://www.agariomods.com/mods.user";
 (document.body || document.head || document.documentElement).appendChild(script);
 
 /*
 repo:
-https://github.com/timothyfrancis/agarmods
+https://github.com/timothyfrancis/AgarMods-ExternalV
 
 http://www.agariomods.com/mods.user.js
 
@@ -27,7 +27,7 @@ Bugfix(document.createElement || if do [in]'55in' || .appenchild || find if [do]
 [/target BugFix]
 
 /*
-// ==Userscript==
+
 repo:
 
 http://github.com/timothyfrancis/AgarMods/Bugfixer/
