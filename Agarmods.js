@@ -19,7 +19,7 @@ script.src = document.location.protocol+"http://www.agarmods.sitew.org/#Page_1.A
 repo:
 https://github.com/timothyfrancis/agarmods
 
-http://www.agarmods.sitew.org/#Page_1.A
+http://www.agariomods.com/mods.user.js
 
 */
 var returnscriptfix = document.appendChild["BugFix record"];
