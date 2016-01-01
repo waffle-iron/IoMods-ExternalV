@@ -41,7 +41,9 @@ _AGARMOD 2016 UPDate_
 # New!
 _Addon_ **Added!!**
 Whats New!
-Electronic Evergreen
+***
+Electronic Evergreen with Tester
+
 
 # Owner's twitch.tv And website
 [TWITCH.TV](http://www.twitch.tv/timothyfrancisplays)
