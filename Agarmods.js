@@ -50,8 +50,34 @@ GET todo in Form
 */
 (TODO || document.body || /*Todo*/ || $.document || .createElement)script.document('start')
 facebookrelogin
+/*
 
+repo:
 
+www.github.com/timothyfrancis/Ogar-ModPro/
+
+www.github.com/timothyfrancis/OgarMod/
+
+*/
+
+//team help all  can do
+//HELLP!
+//if Anyone get merge
+//multiplayer Button Can merge
+var button = function buttontype [t] {
+  //TypeName Button 'HELP NOW'
+  var namebutton = (name: HELP NOW);
+  script.document = teleport {Player};
+  [blob = Player : Score = player :  feed = 1000000]
+};
+var button = function buttontype [t] {
+  //just on Button 'HELP NOW' To Player
+  Player = Help Now
+  var namebutton = (name: REQUEST PLAYER);
+  selectplayer = random;
+  random = 199999/Biggest/Bigger/Big/All
+}
+// Team A Player
 
 
 
