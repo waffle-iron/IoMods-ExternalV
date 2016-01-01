@@ -33,9 +33,15 @@ _AGARMOD 2016 UPDate_
 |-| /\ |* |*  \/  N E W  Year _2016_ **!!!!!!**
                     ||
                     
-:sprinkle: :sprinkle: sprinkle :sprinkle: :sprinkle:
+:sparkle: :sparkle: sparkle :sparkle: :sparkle:
+
 
 :rocket: :rocket: rocket :rocket: :rocket:
+
+# New!
+_Addon_ **Added!!**
+Whats New!
+Electronic Evergreen
 
 # Owner's twitch.tv And website
 [TWITCH.TV](http://www.twitch.tv/timothyfrancisplays)
