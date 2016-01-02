@@ -1,0 +1,6 @@
+/*
+++C++
+LICENCE (MIT)
+CACHE AUTO
+*/
+[RUBY CACHE]
