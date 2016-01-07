@@ -7,3 +7,7 @@ var requirements = cache+data = on,
 true = var sha - import Chrome
 false [UNEXTERNALED]
 true
+/*
+.string
+*/
+string[string:: </string> $]
