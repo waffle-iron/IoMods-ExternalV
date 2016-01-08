@@ -7,9 +7,14 @@ Welcome to ReadMe YOU NEED READ ME
 Tinoy Here But You Not Have Mods You May You have Repo At Tampermonkey But You May Have MonkeyScripts But
 You Need Update? Talk me Want It
 
-Next Year May Update  9.0.0 [DEV _MODE_ **EDITION** _!!_]
+Next Year May Update  1.0.0.0!
+LatestVersion: 9.0.1
+OgarBooks Maded By Lenged
 
-but you need gitKits Website : github.com/timothyfrancis/GitKit
+More Maded Electronoob
+Alert Added
+Tags: wiki, Tags, Fork, Pull, Issues, Star, Help, Comment, Api, Watch and Addons
+Maded by Otocats Workers
 
 # Lets Gets Started!
 More Play App Android agario.mobi
