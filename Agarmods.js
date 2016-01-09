@@ -81,5 +81,20 @@ var button = function buttontype [t] {
 // Team A Player
 
 
+var devolment;
+var do = devolment,{document 'Latest'},true || /Version ||/ || do (Server == Properties) {
+  Server.type.prodocol.prototype : all,
+  /*
+  
+  repo:
+  
+  http://github.com/AgarDevolments
+  
+  localhost:19132
+  
+  http://github.com/AgarDevolments/AgarMods
+  */
+  
+};
 
 
