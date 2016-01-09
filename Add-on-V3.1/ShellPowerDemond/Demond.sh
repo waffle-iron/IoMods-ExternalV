@@ -4,3 +4,8 @@
 // DEMON BENER
 );
 
+# Command
+echo ----------------------
+$git bash
+
+$git otocatfamily
