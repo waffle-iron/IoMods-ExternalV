@@ -70,6 +70,8 @@ var button = function buttontype [t] {
   var namebutton = (name: HELP NOW);
   script.document = teleport {Player};
   [blob = Player : Score = player :  feed = 1000000]
+  //Location
+  location.protocol [Player]
 };
 var button = function buttontype [t] {
   //just on Button 'HELP NOW' To Player
