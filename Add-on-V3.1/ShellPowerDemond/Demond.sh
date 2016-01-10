@@ -1,4 +1,7 @@
 # --DEMONDREPO-- #
+# --=UserShell=-- #
+#  Name : Demond
+
 *bin/bet
 'for || in (/* TODO */
 // DEMON BENER
@@ -8,4 +11,6 @@
 echo ----------------------
 $git bash
 
-$git otocatfamily
+$git otocatfamily;
+if (log = otocats)
+// log
