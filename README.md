@@ -33,15 +33,12 @@ Added Stats
 Agar Mods
 And So Mod Added all
 **Imange i Have A Mod**
-_AGARMOD 2016 UPDate_
+_AGARMOD Lunar UPDate_
 
-|-| /\ |* |*  \/  N E W  Year _2016_ **!!!!!!**
+ITS LUNAR DEVOLMENT DAY!!!! **!!!!!!**
                     ||
                     
 :sparkle: :sparkle: sparkle :sparkle: :sparkle:
-
-
-:rocket: :rocket: rocket :rocket: :rocket:
 
 # New!
 _Addon_ **Added!!**
@@ -49,6 +46,7 @@ Whats New!
 ***
 Electronic Evergreen with Tester
 RubyTree [CACHE AND DATA SAVER]
+The Mod THE NEW
 
 
 # Owner's twitch.tv And website
