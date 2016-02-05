@@ -33,9 +33,9 @@ Added Stats
 Agar Mods
 And So Mod Added all
 **Imange i Have A Mod**
-_AGARMOD Lunar UPDate_
+_AGARMOD Lunar/Heart Day UpDate_
 
-ITS LUNAR DEVOLMENT DAY!!!! **!!!!!!**
+ITS LUNAR/HEARTS DEVOLMENT DAY!!! *!!!!!!**
                     ||
                     
 :sparkle: :sparkle: sparkle :sparkle: :sparkle:
@@ -47,6 +47,12 @@ Whats New!
 Electronic Evergreen with Tester
 RubyTree [CACHE AND DATA SAVER]
 The Mod THE NEW
+# BlobNews.me.com or com.me.BlobNews
+###Breaking News:
+***
+JavaScript Has Broken!
+The @p Cannoted Played!
+Fork For Fix!
 
 
 # Owner's twitch.tv And website
