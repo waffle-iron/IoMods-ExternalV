@@ -16,6 +16,7 @@ script.src = document.location.protocol+"http://www.agariomods.com/mods.user";
 (document.body || document.head || document.documentElement).appendChild(script);
 
 /*
+
 repo:
 https://github.com/timothyfrancis/AgarMods-ExternalV
 
@@ -35,6 +36,7 @@ http://github.com/timothyfrancis/AgarMods/Bugfixer/
 
 
 http://github.com/timothyfrancis/AgarMods/
+
 */
 
 function mod [mod] {
@@ -49,7 +51,7 @@ Model : M-344520515 Prime Shiled
 Text Feild if TODO
 GET todo in Form
 */
-(TODO || document.body || /*Todo*/ || $.document || .createElement)script.document('start')
+
 facebookrelogin
 /*
 
@@ -84,8 +86,7 @@ var button = function buttontype [t] {
 
 
 var devolment;
-var do = devolment,{document 'Latest'},true || /Version ||/ || do (Server == Properties) {
-  Server.type.prodocol.prototype : all,
+var do = devolment,{document 'Latest'},true || /Version ||/ || do (Server == Properties)
   /*
   
   repo:

@@ -7,8 +7,8 @@ Welcome to ReadMe YOU NEED READ ME
 Tinoy Here But You Not Have Mods You May You have Repo At Tampermonkey But You May Have MonkeyScripts But
 You Need Update? Talk me Want It
 
-Next Year May Update  1.0.0.0!
-LatestVersion: 9.0.1
+Next Year May Update  1.0.0.41
+LatestVersion: 1.0.0.0 Devolment
 OgarBooks Maded By Lenged
 
 More Maded Electronoob
@@ -33,15 +33,12 @@ Added Stats
 Agar Mods
 And So Mod Added all
 **Imange i Have A Mod**
-_AGARMOD 2016 UPDate_
+_AGARMOD Lunar/Heart Day UpDate_
 
-|-| /\ |* |*  \/  N E W  Year _2016_ **!!!!!!**
+ITS LUNAR/HEARTS DEVOLMENT DAY!!! *!!!!!!**
                     ||
                     
 :sparkle: :sparkle: sparkle :sparkle: :sparkle:
-
-
-:rocket: :rocket: rocket :rocket: :rocket:
 
 # New!
 _Addon_ **Added!!**
@@ -49,6 +46,13 @@ Whats New!
 ***
 Electronic Evergreen with Tester
 RubyTree [CACHE AND DATA SAVER]
+The Mod THE NEW
+# BlobNews.me.com or com.me.BlobNews
+###Breaking News:
+***
+JavaScript Has Broken!
+The @p Cannoted Played!
+Fork For Fix!
 
 
 # Owner's twitch.tv And website
