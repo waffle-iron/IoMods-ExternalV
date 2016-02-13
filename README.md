@@ -52,7 +52,7 @@ The Mod THE NEW
 ***
 The Harmest Bot
 ***
-Help For me Don't Banned me pls :smile: :otocat:
+Help For me Don't Banned me pls :smile: :octocat:
 #CoffeeMe
 1.0.0 What's New _**!**_
 ***
