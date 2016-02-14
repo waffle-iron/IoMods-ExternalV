@@ -64,4 +64,4 @@ New PizzaScript***
 # Owner's twitch.tv And website
 [TWITCH.TV](http://www.twitch.tv/timothyfrancisplays)
 
-[WEBSITE](http://tinoyplays.weebly.com)
+[MY WEBSITE](https://tinoyplays.weebly.com)
