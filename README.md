@@ -50,9 +50,10 @@ The Mod THE NEW
 # BlobNews.me.com or com.me.BlobNews
 ### Breaking News:
 ***
-The Harmest Bot
+||<PC>|| Realese AgarMods?!
 ***
-Help For me Don't Banned me pls :smile: :octocat:
+Will realese on batch file Now will setup longer update CommandPomort on Windows 11 [Not Realesed] For only Win64, Win71, Java64 and Java71
+Name: Agarmods PC Windows 11 Edition
 #CoffeeMe
 1.0.0 What's New _**!**_
 ***
@@ -61,6 +62,20 @@ Update to Downdate
 Connected To CoffeeScript
 ***
 New PizzaScript***
+## How To install
+***
+PC:
+1. Install Zip or Rar File
+2. Find AgarModsPc.js or AgarModsPc.bat
+3. Open it(REQUIRE NODE)
+4. And open Website
+5. And Open AgarModRepoPc.js [TamperMonkey]
+6. Enjoy!
+Website:
+1. Install TamperMonkey
+2. Press Raw On AgarMods
+3. Enable Script
+4. Enjoy!
 # Owner's twitch.tv And website
 [TWITCH.TV](http://www.twitch.tv/timothyfrancisplays)
 
