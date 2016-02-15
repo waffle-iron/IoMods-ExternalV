@@ -6,7 +6,7 @@ Echo. Repo Is installed
 rem agarMods
 set /a repo=https://www.github.com/timothyfrancis/AgarMods-ExternalV/
 cls
-ping agar.io (agar.io %agarMods%
+ping agar.io (agar.io %agarMods%)
 set label=765
 
 if label ==765 (
