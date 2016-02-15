@@ -15,4 +15,4 @@ goto Installed
 exit)
 
 :Installed
-start label.js
+start label.bat
