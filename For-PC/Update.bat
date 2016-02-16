@@ -1,3 +1,1 @@
-echo off
-
-xcopy /z /y
+xcopy /z /x 'github.com/timothyfrancis/AgarMods-ExternalV/'
