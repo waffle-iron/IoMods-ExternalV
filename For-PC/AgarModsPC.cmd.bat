@@ -15,4 +15,4 @@ goto Installed
 exit)
 
 :Installed
-start label.bat
+start Update.bat
