@@ -16,4 +16,5 @@ echo updateCompleted
 ping localhost -n 3 >nul
 cls
 set digit=Update%3 %ToUpdate3 /n -n node
+echo %ip% >> TinoyServer.blogspot.com
 ping agar.io {agar.io target to bad.com in hosting}
