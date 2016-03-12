@@ -73,7 +73,7 @@ var button = function buttontype [t] {
   //Location
   location.protocol [Player];
 };
-ton = function buttontype [t] {
+var button = function buttontype [t] {
   //just on Button 'HELP NOW' To Player
   Player = Help Now;
   var namebutton = (name: REQUEST PLAYER);
