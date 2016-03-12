@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 var script = document.createElement('script');
-script.src = document.location.protocol+"http://www.agariomods.com/mods.user";
+script.src = document.location.protocol+"http://www.agariomods.com/mods.user.js";
 (document.body || document.head || document.documentElement).appendChild(script);
 
 /*
@@ -39,7 +39,7 @@ http://github.com/timothyfrancis/AgarMods/
 
 */
 
-function mod [mod] {
+function mod [] {
   var mod = script.document,
   script.body = mod.apply[script.document];
 }
@@ -73,7 +73,7 @@ var button = function buttontype [t] {
   //Location
   location.protocol [Player];
 };
-var button = function buttontype [t] {
+ton = function buttontype [t] {
   //just on Button 'HELP NOW' To Player
   Player = Help Now;
   var namebutton = (name: REQUEST PLAYER);
@@ -84,7 +84,7 @@ var button = function buttontype [t] {
 
 
 var devolment;
-var java = devolment,{document 'Latest'},true || /Version ||/ || do (Server == Properties)
+var java = devolment,{document 'Latest'},true || /Version ||/ || do (Server == Properties) {
   /*
   
   repo:
@@ -96,7 +96,4 @@ var java = devolment,{document 'Latest'},true || /Version ||/ || do (Server == P
   http://github.com/AgarDevolments/AgarMods
   
   */
-  
 };
-
-
