@@ -9,4 +9,4 @@ document.getElement('agarMods');
 document.getClass('customMod')
 
 public class customMod {
-}
+};
