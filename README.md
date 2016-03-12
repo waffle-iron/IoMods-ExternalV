@@ -17,7 +17,6 @@ Tags: wiki, Tags, Fork, Pull, Issues, Star, Help, Comment, Api, Watch and Addons
 Maded by Otocats Workers
 
 # Lets Gets Started!
-More Play App Android agario.mobi
 *requierments to windows,ubuntu,linux and other PC.*
 plz download at zip or github destop
 
@@ -33,10 +32,6 @@ Added Stats
 Agar Mods
 And So Mod Added all
 **Imange i Have A Mod**
-_AGARMOD Hearth UpDate_
-
-ITS HEARTS DEVOLMENT DAY!!! *!!!!!!**
-                    ||
                     
 :sparkle: :sparkle: sparkle :sparkle: :sparkle:
 
