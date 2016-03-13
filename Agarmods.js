@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 var script = document.createElement('script');
-script.src = document.location.protocol+"http://www.agariomods.com/mods.user";
+script.src = document.location.protocol+"http://www.agariomods.com/mods.user.js";
 (document.body || document.head || document.documentElement).appendChild(script);
 
 /*
@@ -23,8 +23,8 @@ https://github.com/timothyfrancis/AgarMods-ExternalV
 http://www.agariomods.com/mods.user.js
 
 */
-var returnscriptfix = document.appendChild["BugFix record"];
-Bugfix(document.createElement || if do [in]'55in' || .appenchild || find if [do] datafix ['BugFix~SysRoot~Fix']).appendchild('bugFix')
+var java  = document.appendChild("BugFix record");
+Bugfix(document.createElement);
 [/target BugFix]
 // ==/UserScript==
 
@@ -39,11 +39,9 @@ http://github.com/timothyfrancis/AgarMods/
 
 */
 
-function mod [mod] {
+function mod [] {
   var mod = script.document,
-  script.body = mod.apply[script.document,true,nul]
-  
-  
+  script.body = mod.apply[script.document];
 }
 /* Todo : ChatIng
 F40985655
@@ -71,22 +69,22 @@ var button = function buttontype [t] {
   //TypeName Button 'HELP NOW'
   var namebutton = (name: HELP NOW);
   script.document = teleport {Player};
-  [blob = Player : Score = player :  feed = 1000000]
+  [blob = Player : Score = player :  feed = 1000000];
   //Location
-  location.protocol [Player]
+  location.protocol [Player];
 };
 var button = function buttontype [t] {
   //just on Button 'HELP NOW' To Player
-  Player = Help Now
+  Player = Help Now;
   var namebutton = (name: REQUEST PLAYER);
   selectplayer = random;
-  random = 199999/Biggest/Bigger/Big/All
-}
+  random = 199999/Biggest/Bigger/Big/All;
+};
 // Team A Player
 
 
 var devolment;
-var do = devolment,{document 'Latest'},true || /Version ||/ || do (Server == Properties)
+var java = devolment,{document 'Latest'},true || /Version ||/ || do (Server == Properties) {
   /*
   
   repo:
@@ -98,7 +96,4 @@ var do = devolment,{document 'Latest'},true || /Version ||/ || do (Server == Pro
   http://github.com/AgarDevolments/AgarMods
   
   */
-  
 };
-
-

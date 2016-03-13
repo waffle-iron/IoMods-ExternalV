@@ -17,7 +17,6 @@ Tags: wiki, Tags, Fork, Pull, Issues, Star, Help, Comment, Api, Watch and Addons
 Maded by Otocats Workers
 
 # Lets Gets Started!
-More Play App Android agario.mobi
 *requierments to windows,ubuntu,linux and other PC.*
 plz download at zip or github destop
 
@@ -33,10 +32,6 @@ Added Stats
 Agar Mods
 And So Mod Added all
 **Imange i Have A Mod**
-_AGARMOD Lunar/Heart Day UpDate_
-
-ITS LUNAR/HEARTS DEVOLMENT DAY!!! *!!!!!!**
-                    ||
                     
 :sparkle: :sparkle: sparkle :sparkle: :sparkle:
 
@@ -48,14 +43,35 @@ Electronic Evergreen with Tester
 RubyTree [CACHE AND DATA SAVER]
 The Mod THE NEW
 # BlobNews.me.com or com.me.BlobNews
-###Breaking News:
+### Breaking News:
 ***
-JavaScript Has Broken!
-The @p Cannoted Played!
-Fork For Fix!
-
-
+||<PC>|| Realese AgarMods?!
+***
+Will realese on batch file Now will setup longer update CommandPomort on Windows 11 [Not Realesed] For only Win64, Win71, Java64 and Java71
+Name: Agarmods PC Windows 11 Edition
+#CoffeeMe
+1.0.0 What's New _**!**_
+***
+Update to Downdate
+***
+Connected To CoffeeScript
+***
+New PizzaScript***
+## How To install
+***
+PC:
+1. Install Zip or Rar File
+2. Find AgarModsPc.js or AgarModsPc.bat
+3. Open it(REQUIRE NODE)
+4. And open Website
+5. And Open AgarModRepoPc.js [TamperMonkey]
+6. Enjoy!
+Website:
+1. Install TamperMonkey
+2. Press Raw On AgarMods
+3. Enable Script
+4. Enjoy!
 # Owner's twitch.tv And website
 [TWITCH.TV](http://www.twitch.tv/timothyfrancisplays)
 
-[WEBSITE](http://tinoyplays.weebly.com)
+[MY WEBSITE](https://tinoyplays.weebly.com)
