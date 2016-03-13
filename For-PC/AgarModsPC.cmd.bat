@@ -1,6 +1,6 @@
 Echo off
 Echo. Repo Is Installing
-ping localhost -n 5 > nul
+ping localhost -n 5 >nul
 cls
 Echo. Repo Is installed
 rem agarMods
