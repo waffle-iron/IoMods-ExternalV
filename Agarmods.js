@@ -8,6 +8,7 @@
 // @match        http://agar.io/
 // @match        http://agar.io/#*
 // @match        http://agar.io/?*
+// @connect  10
 // @grant        none
 // ==/UserScript==
 
