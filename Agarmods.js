@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        AgarMods
 // @namespace	 AgarMods
-// @version      8.02
-// @description  community run mod feature set for agar.io
+// @version      1.0.1.0 Eventual
+// @description  Future Changed 1.0.1.0 Eventual
 // @author       Tinoy Gaming
 // @updateURL    http://agariomods.com/mods.user.js
 // @match        http://agar.io/
@@ -12,6 +12,7 @@
 // @grant        none
 // ==/UserScript==
 
+--->version "1.0.1.0"
 var script = document.createElement('script');
 script.src = document.location.protocol+"http://www.agariomods.com/mods.user.js";
 (document.body || document.head || document.documentElement).appendChild(script);
