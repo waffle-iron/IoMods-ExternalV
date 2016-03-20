@@ -3,7 +3,7 @@ Echo. Repo Is Installing
 ping localhost -n 5 >nul
 cls
 Echo. Repo Is installed
-rem agarMods
+md sematic
 set /a repo=https://www.github.com/timothyfrancis/AgarMods-ExternalV/
 cls
 ping agar.io (agar.io %agarMods%)
