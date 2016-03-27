@@ -32,7 +32,9 @@ Added Stats
 Agar Mods
 And So Mod Added all
 **Imange i Have A Mod**
-                    
+Easter Update
+
+                    Happy Easter!
 :sparkle: :sparkle: sparkle :sparkle: :sparkle:
 
 # New!
@@ -45,10 +47,11 @@ The Mod THE NEW
 # BlobNews.me.com or com.me.BlobNews
 ### Breaking News:
 ***
-||<PC>|| Realese AgarMods?!
+||<PC>|| Realese AgarMods!
 ***
-Will realese on batch file Now will setup longer update CommandPomort on Windows 11 [Not Realesed] For only Win64, Win71, Java64 and Java71
-Name: Agarmods PC Windows 11 Edition
+## What's New!
+Added Websocket And Updater
+Name: Agarmods PC Windows 11/10/9/Latest/Later/Late Edition
 #CoffeeMe
 1.0.0 What's New _**!**_
 ***
@@ -61,14 +64,14 @@ New PizzaScript***
 ***
 PC:
 1. Install Zip or Rar File
-2. Find AgarModsPc.js or AgarModsPc.bat
+2. Find AgarMods.js or AgarModsPc.bat
 3. Open it(REQUIRE NODE)
 4. And open Website
-5. And Open AgarModRepoPc.js [TamperMonkey]
+5. And Open AgarMod.js [TamperMonkey]
 6. Enjoy!
 Website:
 1. Install TamperMonkey
-2. Press Raw On AgarMods
+2. Press Raw On AgarMods.js
 3. Enable Script
 4. Enjoy!
 # Owner's twitch.tv And website
