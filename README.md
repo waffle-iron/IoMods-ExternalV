@@ -7,8 +7,8 @@ Welcome to ReadMe YOU NEED READ ME
 Tinoy Here But You Not Have Mods You May You have Repo At Tampermonkey But You May Have MonkeyScripts But
 You Need Update? Talk me Want It
 
-Next Year May Update  1.0.0.41
-LatestVersion: 1.0.0.0 Devolment
+Next Year May Update  1.1.0.0
+LatestVersion: 1.0.1.0 Devolment
 OgarBooks Maded By Lenged
 
 More Maded Electronoob
