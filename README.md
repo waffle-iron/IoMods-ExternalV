@@ -34,7 +34,7 @@ And So Mod Added all
 **Imange i Have A Mod**
 Easter Update
 
-                    Happy Easter!
+                    Happpy April fools day!
 :sparkle: :sparkle: sparkle :sparkle: :sparkle:
 
 # New!
