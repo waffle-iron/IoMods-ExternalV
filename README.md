@@ -34,7 +34,7 @@ And So Mod Added all
 **Imange i Have A Mod**
 Easter Update
 
-                    Happpy April fools day!
+                    HAPPY MOTHER'S DAY!
 :sparkle: :sparkle: sparkle :sparkle: :sparkle:
 
 # New!
@@ -44,14 +44,15 @@ Whats New!
 Electronic Evergreen with Tester
 RubyTree [CACHE AND DATA SAVER]
 The Mod THE NEW
+All Addons!
 # BlobNews.me.com or com.me.BlobNews
 ### Breaking News:
 ***
-||<PC>|| Realese AgarMods!
+||<IOS/Android>|| Realese AgarMods!
 ***
 ## What's New!
-Added Websocket And Updater
-Name: Agarmods PC Windows 11/10/9/Latest/Later/Late Edition
+Added Websocket, Defender [Hack/glitch banner] And Updater
+Name: AgarMods Pocket Edition Build 369/Endless
 #CoffeeMe
 1.0.0 What's New _**!**_
 ***
