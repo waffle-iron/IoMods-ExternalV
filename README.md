@@ -8,7 +8,7 @@ Tinoy Here But You Not Have Mods You May You have Repo At Tampermonkey But You M
 You Need Update? Talk me Want It
 
 Next Year May Update  1.1.0.0
-LatestVersion: 1.0.1.0 Devolment
+LatestVersion: 1.0.2.1 Devolment
 OgarBooks Maded By Lenged
 
 More Maded Electronoob
