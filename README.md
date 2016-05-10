@@ -1,4 +1,4 @@
-# Agar Mod Read at me:
+# IoMods Read at me:
 
 [![Join the chat at https://gitter.im/timothyfrancis/AgarMods](https://badges.gitter.im/timothyfrancis/AgarMods.svg)](https://gitter.im/timothyfrancis/AgarMods?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
