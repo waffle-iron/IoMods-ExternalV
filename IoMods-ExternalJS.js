@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        AgarMods
-// @namespace	 AgarMods
+// @name        IoMods
+// @namespace	 IoMods
 // @version      1.0.2.1ExterVaniorge
-// @description  Future Changed 1.0.1.0 Eventual
+// @description  Future Change to {Version_Type}$
 // @author       Tinoy Gaming
 // @updateURL    http://agariomods.com/mods.user.js
 // @match        http://agar.io/
