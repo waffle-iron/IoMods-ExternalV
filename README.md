@@ -62,8 +62,8 @@ Connected To CoffeeScript
 ***
 New PizzaScript
 ***
-# **Server Bar Gamemodes
-Id   | Name
+# Server Bar Gamemodes
+**Id   | Name
 -----|--------------
 0    | Free For All
 1    | Teams
