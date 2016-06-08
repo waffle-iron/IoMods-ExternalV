@@ -73,11 +73,36 @@ New PizzaScript
 12   | Zombie Mode
 13   | Team Z
 14   | Team X
-20   | Rainbow FFA - Hint: Use with "setAcid(true)"**
+20   | Rainbow FFA - Hint: Use with "setAcid(true)"
+
+# ☆Users☆ o_0
+### 1 To 20
+Id   | Name
+-----|--------------
+1    | Tinoy (King Agar.io)/(Mod/Owner Mod)
+2    | Companion Bot (King Cloned)
+3    | Inferr (Admin)
+4    | Inferr's Companion Bot
+5    | Companion Bot 1
+6    | Companion Bot 2
+7    | Companion Bot 3
+8    | Companion Bot 4
+9    | Companion Bot 5
+10   | Guest1 (Dumbass Bot)
+11   | Add Here
+12   | Add Here
+13   | Add Here
+14   | Add Here
+15   | Add Here
+16   | Add Here
+17   | Add Here
+18   | Add Here
+19   | Add Here
+20   | Add Here
 
 ## How To install
 ***
-PC:
+8PC:
 1. Install Zip or Rar File
 2. Find AgarMods.js or AgarModsPc.bat
 3. Open it(REQUIRE NODE)
