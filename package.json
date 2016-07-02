@@ -1,13 +1,7 @@
 {
-import com.tinoymods.packageiomods{
-interface com.tinoymods.packageiomods{
-package com.tinoymods.packageiomods{
 "name": "IoMods"
 "version: "%version%"
 "private": false
 "log": ")10"
 "memcache": ")5"
-}
-}
-}
 }
