@@ -4,4 +4,5 @@
 "private": false
 "log": ")10"
 "memcache": ")5"
+"start": "PackageInstaller.js"
 }
