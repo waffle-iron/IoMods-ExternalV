@@ -4,5 +4,8 @@
 "private": false
 "log": ")10"
 "memcache": ")5"
+"script":{
 "start": "PackageInstaller.js"
+"express": "192"
+}
 }
