@@ -1,13 +1,13 @@
 # IoMods Read at me:
 
-[![Join the chat at https://gitter.im/timothyfrancis/AgarMods](https://badges.gitter.im/timothyfrancis/AgarMods.svg)](https://gitter.im/timothyfrancis/AgarMods?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/timothyfrancis/IoMods-External](https://badges.gitter.im/timothyfrancis/IoMods-External.svg)](https://gitter.im/timothyfrancis/IoMods-ExternalV?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Welcome to ReadMe YOU NEED READ ME
 
 Tinoy Here But You Not Have Mods You May You have Repo At Tampermonkey But You May Have MonkeyScripts But
 You Need Update? Talk me Want It
 
-Next Year May Update  1.1.0.0
+Next Update  1.1.0.0
 LatestVersion: 1.0.2.1 Devolment
 OgarBooks Maded By Lenged
 
