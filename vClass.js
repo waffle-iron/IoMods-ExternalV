@@ -10,3 +10,4 @@ document.getClass('customMod')
 
 public class customMod {
 };
+'use strict';
