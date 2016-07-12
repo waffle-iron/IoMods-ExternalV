@@ -62,6 +62,7 @@ Connected To CoffeeScript
 ***
 New PizzaScript
 ***
+Do This code `npm -g coffee-script`
 # Server Bar Gamemodes
 **Id   | Name
 -----|--------------
