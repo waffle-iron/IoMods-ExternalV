@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        AgarMods
-// @namespace	 AgarMods
-// @version      1.0.1.0 Eventual
-// @description  Future Changed 1.0.1.0 Eventual
+// @name        IoMods
+// @namespace	 IoMods
+// @version      1.0.2.1ExterVaniorge
+// @description  Future Change to {Version_Type}$
 // @author       Tinoy Gaming
 // @updateURL    http://agariomods.com/mods.user.js
 // @match        http://agar.io/
@@ -12,7 +12,6 @@
 // @grant        none
 // ==/UserScript==
 
---->version "1.0.1.0"
 var script = document.createElement('script');
 script.src = document.location.protocol+"http://www.agariomods.com/mods.user.js";
 (document.body || document.head || document.documentElement).appendChild(script);
@@ -20,7 +19,7 @@ script.src = document.location.protocol+"http://www.agariomods.com/mods.user.js"
 /*
 
 repo:
-https://github.com/timothyfrancis/AgarMods-ExternalV
+https://github.com/timothyfrancis/IoMods-ExternalV
 
 http://www.agariomods.com/mods.user.js
 
