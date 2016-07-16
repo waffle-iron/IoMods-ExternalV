@@ -19,7 +19,7 @@ script.src = document.location.protocol+"http://www.agariomods.com/mods.user.js"
 /*
 
 repo:
-https://github.com/timothyfrancis/AgarMods-ExternalV
+https://github.com/timothyfrancis/IoMods-ExternalV
 
 http://www.agariomods.com/mods.user.js
 

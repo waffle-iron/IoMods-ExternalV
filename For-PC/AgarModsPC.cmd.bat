@@ -1,3 +1,4 @@
+:home
 Echo off
 Echo. Repo Is Installing
 ping localhost -n 5 >nul
@@ -12,7 +13,10 @@ set label=765
 if label ==765 (
 goto Installed
 )else(
-exit)
+echo Errorrrrrrrrrrrrrr.......................
+echo Label Not Match TryAgain >> Crashs %time% %date%.setting.txt
+pause
+goto home)
 
 :Installed
 start Update.bat
