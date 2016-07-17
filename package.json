@@ -1,0 +1,11 @@
+{
+"name": "IoMods"
+"version: "%version%"
+"private": false
+"log": ")10"
+"memcache": ")5"
+"script":{
+"start": "PackageInstaller.js"
+"express": "27.109.86.111"
+}
+}

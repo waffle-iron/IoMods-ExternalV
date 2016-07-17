@@ -1,13 +1,14 @@
 // ==UserScript==
-// @name        AgarMods
-// @namespace	 AgarMods
-// @version      8.02
-// @description  community run mod feature set for agar.io
+// @name        IoMods
+// @namespace	 IoMods
+// @version      1.0.2.1ExterVaniorge
+// @description  Future Change to {Version_Type}$
 // @author       Tinoy Gaming
 // @updateURL    http://agariomods.com/mods.user.js
 // @match        http://agar.io/
 // @match        http://agar.io/#*
 // @match        http://agar.io/?*
+// @connect  public
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +19,7 @@ script.src = document.location.protocol+"http://www.agariomods.com/mods.user.js"
 /*
 
 repo:
-https://github.com/timothyfrancis/AgarMods-ExternalV
+https://github.com/timothyfrancis/IoMods-ExternalV
 
 http://www.agariomods.com/mods.user.js
 
