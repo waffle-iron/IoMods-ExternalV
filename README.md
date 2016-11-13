@@ -7,14 +7,9 @@ Welcome to ReadMe YOU NEED READ ME
 Tinoy Here But You Not Have Mods You May You have Repo At Tampermonkey But You May Have MonkeyScripts But
 You Need Update? Talk me Want It
 
-Next Update  1.1.0.0
-LatestVersion: 1.0.2.1 Devolment
-OgarBooks Maded By Lenged
-
-More Maded Electronoob
+OgarBooks Maded By Lengedore Maded Electronoob
 Alert Added
-Tags: wiki, Tags, Fork, Pull, Issues, Star, Help, Comment, Api, Watch and Addons
-Maded by Otocats Workers
+Tags: wiki, Tags, Fork, Pull, Issues, Star, Help, Comment, Api, Watch and Add
 
 # Lets Gets Started!
 *requierments to windows,ubuntu,linux and other PC.*
@@ -32,10 +27,8 @@ Added Stats
 Agar Mods
 And So Mod Added all
 **Imange i Have A Mod**
-MotherMod update
 
-                    HAPPY MOTHER'S DAY!
-:sparkle: :sparkle: sparkle :sparkle: :sparkle:
+                    :sparkle: :sparkle: sparkle :sparkle: :sparkle:
 
 # New!
 _Addon_ **Added!!**
