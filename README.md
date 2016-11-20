@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/timothyfrancis/IoMods-ExternalV.png?label=ready&title=Ready)](https://waffle.io/timothyfrancis/IoMods-ExternalV)
+[![Stories in Ready](https://badge.waffle.io/timothyfrancis/IoMods-ExternalV.png?label=ready&title=Ready)](https://waffle.io/timothyfrancis/IoMods-ExternalV)
 # IoMods Read at me:
 
 [![Join the chat at https://gitter.im/timothyfrancis/IoMods-External](https://badges.gitter.im/timothyfrancis/IoMods-External.svg)](https://gitter.im/timothyfrancis/IoMods-ExternalV?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
